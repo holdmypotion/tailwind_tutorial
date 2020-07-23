@@ -1,0 +1,24 @@
+{
+  "name": "tailwind_tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial Tailwind",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holdmypotion/tailwind_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holdmypotion/tailwind_tutorial/issues"
+  },
+  "homepage": "https://github.com/holdmypotion/tailwind_tutorial#readme"
+}
